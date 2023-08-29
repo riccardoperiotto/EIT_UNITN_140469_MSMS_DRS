@@ -4,7 +4,7 @@ Project developed for the Modeling and Simulation of Mechatronics System course 
 
 
 ## Information
-Course professor: Francesco Biral.
+Course professor: Francesco Biral, Enrico Bertolazzi.
 
 Collaborators: 
 - [Matteo Mastrogiuseppe](https://www.linkedin.com/in/matteomastrogiuseppe/)
