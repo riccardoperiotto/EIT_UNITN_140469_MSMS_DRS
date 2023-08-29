@@ -18,9 +18,8 @@ For the dynamic, we saw the Newton-Euler approach, the Lagrange approach, and th
 The aim of the project is to model the Drag Reduction System (DRS) used by Formula 1 cars. An animated gif showing the mechanism and the forces involved is reported above.
 The main difficulty we faced was that each part of a Formula 1 car was hidden by industrial secret, making it difficult to find public information and data about the mechanism.
 
-The project development included two assignments we had to deliver before the end of the course. 
-
-The first assignment was a requirement analysis of the project conducted via the House of Quality approach, while the second was a kinematic analysis of the mechanisms. The reports delivered for these two assignments are in the "Documents" folder.
+The project development included two assignments we had to deliver before the end of the project. 
+The first assignment was a requirement analysis of the project conducted using the House of Quality approach, while the second was a kinematic analysis of the mechanisms. The reports delivered for these two assignments are in the "Documents" folder.
 
 The final delivery of the project, which is the one contained in this repository, contains the code to study the different mechanism configurations we considered during the course, namely the push-up, the pod-pull, and the pod-rocker.
 
